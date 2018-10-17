@@ -1,1 +1,26 @@
 /*Esto es un archivo de estilo*/
+.contenedor
+{
+    margin: auto;
+    background-color: #1c3867;
+    color: #fff;
+    width: 350px;
+    height: auto;
+}
+table
+{
+    width: 78%;
+    margin: auto;
+}
+th{
+    font-size: 30px;
+    margin: auto;
+}
+.caja
+{
+    float: right;
+}
+td
+{
+    padding:10px;
+}
